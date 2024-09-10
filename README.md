@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @susannagranieri
-- 👀 I’m a student at Columbia Journalism School and am focused on investigative and data reporting
+- 👀 I’m a journalist at First Amendment Watch
+- 📚 I was recently a student at Columbia Journalism School and was focused on investigative and data reporting
 - 🌱 I’m currently learning Python 3
 - 📫 susanna.granieri@columbia.edu
 
