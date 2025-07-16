@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @susannagranieri
 - 👀 I’m a journalist at First Amendment Watch
 - 📚 I was a student at Columbia Journalism School and was focused on investigative and data reporting
-- 🌱 I’m currently learning Python 3
 - 📫 susanna.g.granieri@gmail.edu
 
 <!---
